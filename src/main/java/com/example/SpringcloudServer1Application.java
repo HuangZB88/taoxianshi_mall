@@ -10,6 +10,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * 对此要注册
  * 团队成员在此处新加一个功能点，要注意！@huangzibo
  * huangzibo在这里新加了广告营销功能！
+ * huangzibo在这里又新加了用户定位功能！
  */
 @SpringBootApplication
 @EnableEurekaServer
